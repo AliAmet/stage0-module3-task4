@@ -10,6 +10,6 @@ public class IntRepresentation {
         char h1 = (char)(h);
         char a1 = (char)(a);
         char r1 = (char)(r);
-        System.out.println(c1 + "," + h1 + "," + a1 + "," + r1);
+        System.out.println(c1 + h1  + a1 + r1);
     }
 }
